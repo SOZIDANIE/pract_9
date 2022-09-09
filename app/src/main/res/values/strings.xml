@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pract9_izotov</string>
+    <string name="text">Выберите фигуру:</string>
+    <string name="tre">Треугольник</string>
+    <string name="krug">Круг</string>
+    <string name="kvadr">Квадрат</string>
+    <string name="text2">Введите данные фигуры:</string>
+    <string name="done">Готово!</string>
+    <string name="high">Высота</string>
+    <string name="osnovanie">Основание</string>
+    <string name="resultat">Площадь:</string>
+    <string name="redius">Радиус</string>
+    <string name="storona">Сторона</string>
+    <string name="sm">(в сантиметрах)</string>
+</resources>
